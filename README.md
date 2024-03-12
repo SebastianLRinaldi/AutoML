@@ -4,12 +4,13 @@ Why?
 2) I wanted a way to compare different model together that was simple and informative. 
 3) I was wasting time trying to reimplment the same feature engieering tricks I learned. 
 
-## Feature engineering
+## What can you do with the AutoML Class?
+### Feature engineering
 - There are lots of way to analyze data before running it into the model
   - So there are features I have cooking up to make that easier.
   - All the functions that start with 'discover' are meant to be used as tools for looking at the features during analysis. 
 
-## STATS
+### STATS
 - Ability to set up a confusion matrix
 - Cross Validation Metrics
   
